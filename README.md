@@ -1,2 +1,2 @@
 # Software-Technologies
-Exams and Exam Preparation for Software Technologies ?M?odule at SoftUni
+Exams and Exam Preparation for Software Technologies Module at SoftUni
